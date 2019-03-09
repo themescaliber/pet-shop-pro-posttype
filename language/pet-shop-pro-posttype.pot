@@ -1,0 +1,77 @@
+# <!=Copyright (C) 2017 tc Themes
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Pet Shop Pro Pro 1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-28 15:32:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: tc Themes <support@themescaliber.com/>\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../pet-shop-pro\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: index.php:19 #: index.php:20
+msgid 'Our Team'
+msgstr""
+
+#: index.php:35 #: index.php:36
+msgid 'Pet Service'
+msgstr""
+
+#: index.php:51 #: index.php:52
+msgid 'Testimonials'
+msgstr""
+
+#: index.php:73 #: index.php:81
+msgid 'Enter Social URL'
+msgstr""
+
+#: index.php:97
+msgid 'Facebook URL'
+msgstr""
+
+#: index.php:105
+msgid 'Twitter URL'
+msgstr""
+
+#: index.php:113
+msgid 'GooglePlus URL'
+msgstr""
+
+#: index.php:121
+msgid 'Linkedin URL'
+msgstr""
+
+#: index.php:234 #: index.php:353 #: index.php:433
+msgid 'Post Not Found'
+msgstr""
+
+#: index.php:246
+msgid 'Enter Designation'
+msgstr""
+
+#: index.php:259
+msgid 'Designation'
+msgstr""
+
+#: index.php:457
+msgid 'WORKOUT'
+msgstr""
+
+#: index.php:458
+msgid 'Lorem Ipsum is simply dummy text of the printing and typesetting industry'
+msgstr""
+
+
+
+
+
